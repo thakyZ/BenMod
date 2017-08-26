@@ -1,0 +1,14 @@
+{
+  "name" : "body",
+  "category" : "ben",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "defaultbody.png"
+  },
+
+  "parameters" : {
+    "meleeProjectile" : "meleelash",
+    "projectileSourcePosition" : [1, -1]
+  }
+}

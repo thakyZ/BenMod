@@ -1,0 +1,11 @@
+{
+  "name" : "head",
+  "category" : "ben",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "defaulthead.png"
+  },
+
+  "parameters" : { }
+}
