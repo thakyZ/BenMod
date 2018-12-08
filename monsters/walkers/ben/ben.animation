@@ -95,7 +95,7 @@
     "parts" : {
       "body" : {
         "properties" : {
-          "transformationGroups" : [ "body" ],
+          "transformationGroups" : [ "body" ]
         },
 
         "partStates" : {
@@ -220,5 +220,5 @@
     "aggroHop" : [ "/sfx/npc/monsters/monster_surprise.ogg" ],
     "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ],
     "fire" : [ "/sfx/npc/quadruped/tiger_pain1.ogg" ]
-  },
+  }
 }
